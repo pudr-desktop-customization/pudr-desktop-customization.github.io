@@ -15,6 +15,10 @@ body {
   color: #fff;
 }
 
+body li a {
+  color: #fff;
+}
+
 header h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 200;

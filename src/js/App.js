@@ -1,0 +1,1 @@
+prompt("Sorry for the bad styling, say yes or no for bad styling");
